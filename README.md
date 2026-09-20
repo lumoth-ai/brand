@@ -28,7 +28,8 @@ Please:
   that suggests Lumoth endorses, sponsors or is affiliated with your project.
 
 See [LICENSE.md](LICENSE.md) for the full terms. For anything not covered
-there, ask first.
+there — a use outside the permission above, a partnership, or a licensing
+question — email <support@lumoth.com> first.
 
 ## Colours
 
@@ -47,4 +48,9 @@ Lumoth 标识，取 *Lumen*（光）＋ *Moth*（蛾）之意，寓意飞蛾向�
 
 素材可在指代 Lumoth 及其项目时原样使用，但不得修改造型或颜色，不得作为你自己的
 产品标识、应用图标或头像，也不得暗示与 Lumoth 存在合作或授权关系。完整条款见
-[LICENSE.md](LICENSE.md)，条款未覆盖的用途请先联系我们。
+[LICENSE.md](LICENSE.md)。超出上述范围的使用、合作或授权咨询，请先发邮件至
+<support@lumoth.com>。
+
+## Contact
+
+support@lumoth.com

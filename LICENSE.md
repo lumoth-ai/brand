@@ -27,7 +27,7 @@ permission below.
 This permission may be withdrawn at any time. It grants no trademark rights and
 does not transfer any ownership. All rights not expressly granted are reserved.
 
-For uses beyond the above, please ask first.
+For uses beyond the above, please email <support@lumoth.com> first.
 
 ---
 
@@ -46,4 +46,4 @@ For uses beyond the above, please ask first.
 发布；用于误导性、违法或贬损性的场合。
 
 本授权可随时撤回，不授予任何商标权利，不转移任何权利归属，未明示授予的权利均予保留。
-超出上述范围的使用，请先联系我们。
+超出上述范围的使用，请先发邮件至 <support@lumoth.com>。
