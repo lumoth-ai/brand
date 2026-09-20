@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <title>Lumoth logo</title>
+  <defs>
+    <linearGradient id="g-wing-a" gradientUnits="userSpaceOnUse" x1="97.7" y1="593.4" x2="658.5" y2="346.4"><stop offset="0" stop-color="#8C9BFF"/><stop offset="0.5" stop-color="#4F5BF0"/><stop offset="1" stop-color="#2B2FD6"/></linearGradient>
+    <linearGradient id="g-wing-b" gradientUnits="userSpaceOnUse" x1="229.6" y1="532.7" x2="796.5" y2="668.7"><stop offset="0" stop-color="#5B7CFA"/><stop offset="0.5" stop-color="#6FA8FF"/><stop offset="1" stop-color="#7FB8FF"/></linearGradient>
+    <linearGradient id="g-overlap" gradientUnits="userSpaceOnUse" x1="380" y1="660" x2="590" y2="460"><stop offset="0" stop-color="#2A35D8"/><stop offset="1" stop-color="#2F5BFF"/></linearGradient>
+    <clipPath id="clip-wing-a"><path d="M208.2 280.1 C175.4 493.5 379.5 653.3 564.5 674.5 Q578.7 675.9 583.1 662.3 C639.7 470.5 416.5 271.3 225.1 266 Q210.7 266 208.2 280.1Z"/></clipPath>
+  </defs>
+  <path id="wing-a" d="M208.2 280.1 C175.4 493.5 379.5 653.3 564.5 674.5 Q578.7 675.9 583.1 662.3 C639.7 470.5 416.5 271.3 225.1 266 Q210.7 266 208.2 280.1Z" fill="url(#g-wing-a)"/>
+  <path id="wing-b" d="M308.5 779.8 C486.1 757.7 723.1 624.1 697.3 441.4 Q694.8 427.2 680.6 426.1 C542.6 421.9 343.2 586.6 297.6 767.2 Q294.4 781.3 308.5 779.8Z" fill="url(#g-wing-b)"/>
+  <path id="overlap" d="M308.5 779.8 C486.1 757.7 723.1 624.1 697.3 441.4 Q694.8 427.2 680.6 426.1 C542.6 421.9 343.2 586.6 297.6 767.2 Q294.4 781.3 308.5 779.8Z" fill="url(#g-overlap)" clip-path="url(#clip-wing-a)"/>
+  <circle id="light-dot" cx="742" cy="291" r="46" fill="#F5A524"/>
+</svg>
