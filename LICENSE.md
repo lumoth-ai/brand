@@ -1,5 +1,7 @@
 # Terms of use — Lumoth brand assets
 
+*The English text below governs. 以下英文文本为准，中文部分为参考译文。*
+
 Copyright © 2026 Lumoth. All rights reserved.
 
 The files in this repository are **not** covered by the open-source licences

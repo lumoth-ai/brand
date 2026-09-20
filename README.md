@@ -1,5 +1,7 @@
 # Lumoth Brand Assets
 
+**English** · [简体中文](README.zh-CN.md)
+
 The Lumoth logo — a moth flying toward light, from *Lumen* (light) + *Moth*.
 
 | File | Use |
@@ -8,9 +10,7 @@ The Lumoth logo — a moth flying toward light, from *Lumen* (light) + *Moth*.
 | `logo/lumoth-logo-512.png` · `-1024.png` | Raster fallback, transparent background. |
 | `logo/lumoth-logo-black.svg` · `.png` | One colour, for light backgrounds. |
 | `logo/lumoth-logo-white.svg` · `.png` | One colour, for dark backgrounds. |
-| `logo/*-1024.jpg` · `*-2000.jpg` | For places that reject SVG or PNG (print, some
-submission forms). JPG cannot be transparent: the colour and black files come on
-white, the white file on black. Prefer SVG or PNG everywhere else. |
+| `logo/*-1024.jpg` · `*-2000.jpg` | For places that reject SVG or PNG (print, some submission forms). JPG cannot be transparent: the colour and black files come on white, the white file on black. Prefer SVG or PNG everywhere else. |
 
 ## Using the logo
 
@@ -40,17 +40,6 @@ question — email <support@lumoth.com> first.
 | Overlap | `#2A35D8` → `#2F5BFF` |
 | Light dot | `#F5A524` |
 
----
-
-# Lumoth 品牌素材
-
-Lumoth 标识，取 *Lumen*（光）＋ *Moth*（蛾）之意，寓意飞蛾向光。
-
-素材可在指代 Lumoth 及其项目时原样使用，但不得修改造型或颜色，不得作为你自己的
-产品标识、应用图标或头像，也不得暗示与 Lumoth 存在合作或授权关系。完整条款见
-[LICENSE.md](LICENSE.md)。超出上述范围的使用、合作或授权咨询，请先发邮件至
-<support@lumoth.com>。
-
 ## Contact
 
-support@lumoth.com
+<support@lumoth.com>
